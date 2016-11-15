@@ -1,4 +1,5 @@
 {
+    "version": "0.1",
     "name": "greabock/node-builder-support",
     "description": "Interfaces for node-builder",
     "license": "MIT",
@@ -12,6 +13,5 @@
         "psr-4": {
             "Greabock\\NodeBuilder\\Support\\": "src/"
         }
-    },
-    "require": {}
+    }
 }
