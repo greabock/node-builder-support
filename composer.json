@@ -8,5 +8,10 @@
             "email": "greabock@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Greabock\\NodeBuilder\\Support\\": "src/"
+        }
+    },
     "require": {}
 }
